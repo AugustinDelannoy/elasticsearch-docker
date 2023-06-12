@@ -1,4 +1,4 @@
-# ELK-CEC-DOCKER
+# ELASTICSEARCH-DOCKER
 
 [![Build Status](https://api.travis-ci.org/JMousqueton/elk-cec-docker.svg?branch=master)](https://travis-ci.org/JMousqueton/elk-cec-docker)
 
